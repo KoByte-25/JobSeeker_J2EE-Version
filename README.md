@@ -1,4 +1,5 @@
 Project Description
+
 JobSeeker Workforce Management System is a J2EE web application designed to connect employers with job seekers across Myanmar. The platform serves two primary user groups: employers who post job opportunities and job seekers who search for employment.
 
 For Employers:
